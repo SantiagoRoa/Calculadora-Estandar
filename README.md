@@ -1,4 +1,5 @@
-# Taller # 1 Programación Avanzada
+## Calculadora Estandar
+## Laboratorio #1 Programación Avanzada
 ### Universidad Distrital Francisco José de Caldas
 
 ### Miembros
